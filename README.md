@@ -1,4 +1,4 @@
-# BatlleShip
+# BattleShip
 Module 1 Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX. MARCH 2018
 
 This project will help you get more familiar with arrays. You will be recreating the game of battleships. 
